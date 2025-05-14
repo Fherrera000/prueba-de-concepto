@@ -68,7 +68,7 @@
   </template>
   
   <script>
-  import Menu from '@/components/Menu.vue';
+  import Menu from '@/components/menu.vue';
   
   export default {
     components: {
